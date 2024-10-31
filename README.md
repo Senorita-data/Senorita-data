@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Senorita-data
-- 👀 I’m interested in Machine Learning and AI
+- 👀 I’m interested in Machine Learning, Data visualizations and AI
 - 👩🏼‍💻 All my projects are available at [https://github.com/Senorita-data](https://github.com/Senorita-data)...
 - 😄 Pronouns: her/she
 
